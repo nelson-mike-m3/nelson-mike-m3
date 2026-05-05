@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the Machine Learning Course from UofT Continuing Studies!
+- 🌱 I’m currently learning GitHub, Google Colab, Python, and Machine Learning
+
+- Looking forward to working with everyone in class ⚡✨👯
 <!--
 **nelson-mike-m3/nelson-mike-m3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
